@@ -1,8 +1,8 @@
 # Two-Sentence Horror
 
 [![Two-Sentence Horror](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253.svg)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
-[![Rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/xyzar29/two-sentence-horror/rank.svg)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
-[![Reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/xyzar29/two-sentence-horror/reward.svg)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
+[![Rank](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Xyzar29/two-sentence-horror/rank.svg)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
+[![Reward](https://make.fun/badge/u-suroto-two-sentence-horror-acea9253/Xyzar29/two-sentence-horror/reward.svg)](https://make.fun/c/u-suroto-two-sentence-horror-acea9253)
 
 Entry for the [Two-Sentence Horror](https://make.fun/c/u-suroto-two-sentence-horror-acea9253) bounty on make.fun: the scariest horror story in exactly two sentences, up to 400 characters.
 
